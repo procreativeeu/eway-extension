@@ -21,5 +21,5 @@ TBD
 
 ## Resources ##
 
- * [Download latest version](https://github.com/procreativeeu/eway-extension/archive/development.zip)
+ * [Download latest version](https://github.com/procreativeeu/eway-extension/archive/master.zip)
  * [Author's page](http://procreative.eu)
